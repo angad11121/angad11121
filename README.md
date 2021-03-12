@@ -1,4 +1,17 @@
 ### Hi there 👋
+I am Gunangad, a BTech. CSE sophomore at IIT Hyderabad.
+
+<br/>
+
+
+### My GitHub Stats 📈
+<img src="https://github-readme-stats.vercel.app/api?username=angad11121&show_icons=true&theme=midnight-purple"/>
+
+<br/>
+
+### Contact Me ☎️
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/angad11121/)
+
 
 <!--
 **angad11121/angad11121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
