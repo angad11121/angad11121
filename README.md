@@ -5,7 +5,7 @@ I am Gunangad, a BTech. CSE sophomore at IIT Hyderabad.
 
 
 ### My GitHub Stats 📈
-<img src="https://github-readme-stats.vercel.app/api?username=angad11121&show_icons=true&theme=midnight-purple"/>
+<img src="https://github-readme-stats.vercel.app/api?username=angad11121&count_private=true&show_icons=true&theme=midnight-purple"/>
 
 <br/>
 
