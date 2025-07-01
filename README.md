@@ -1,32 +1,37 @@
 ### Hi there 👋
-I am Gunangad, a BTech. CSE sophomore at IIT Hyderabad.
+
+I'm **Gunangad Pal Singh Narula**, a Computer Science graduate from **IIT Hyderabad**, with a minor in Artificial Intelligence.  
+I enjoy building scalable backend systems, solving challenging problems, and continuously learning across domains.
 
 <br/>
 
+### 🧠 What I’m up to
+- 🔭 Currently working as a **Software Engineer**
+- 🧩 Exploring **distributed systems**, **microservices**, and **cloud infrastructure**
+- 📈 Always learning — from systems design to optimizing real-world performance
+- 🤝 Open to collaborating on backend-heavy or research-oriented projects
 
-### My GitHub Stats 📈
+<br/>
 
-<img align ="left" src="https://github-readme-stats.vercel.app/api?username=angad11121&count_private=true&show_icons=true&theme=midnight-purple"/>
-  
+### ⚙️ Tech Stack
+- **Languages:** Python, Java, C++, JavaScript/TypeScript
+- **Frameworks:** Spring Boot, Node.js, Express
+- **Tools & Infra:** Docker, Kubernetes, Git, Postman, Kafka, Prometheus, Elasticsearch, Grafana
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **Others:** gRPC, GraphQL, REST APIs, GitHub Actions, AWS basics
+
+<br/>
+
+### 📊 GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=angad11121&count_private=true&show_icons=true&theme=midnight-purple"/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angad11121&layout=compact&count_private=true&theme=midnight-purple)
 
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
-### Contact Me ☎️
+---
+
+### 📬 Contact Me
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/angad11121/)
-
-
-<!--
-**angad11121/angad11121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
