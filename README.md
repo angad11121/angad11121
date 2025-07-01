@@ -24,7 +24,7 @@ I enjoy building scalable backend systems, solving challenging problems, and con
 
 ### 📊 GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=angad11121&count_private=true&show_icons=true&theme=midnight-purple"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=angad11121&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=true&card_width=300"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angad11121&layout=compact&count_private=true&theme=midnight-purple)
 
